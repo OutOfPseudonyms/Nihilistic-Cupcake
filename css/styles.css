@@ -19,3 +19,7 @@ p.flashy {
   font-style: italic;
   color: red;
 }
+
+p.best {
+  color: yellowgreen;
+}
