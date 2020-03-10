@@ -21,5 +21,13 @@ p.flashy {
 }
 
 p.best {
-  color: yellowgreen;
+  text-align: center;
+  color: chartreuse;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
 }
